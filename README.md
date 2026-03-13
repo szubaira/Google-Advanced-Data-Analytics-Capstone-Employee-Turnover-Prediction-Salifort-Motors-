@@ -20,6 +20,14 @@ The analysis was conducted using internal survey data collected by the HR depart
 * **Safety & Status:** Work accidents and promotion history within the last five years.
 
 **Data Limitations:** The dataset is a cross-sectional "snapshot," meaning it does not capture changes in employee sentiment over time. Additionally, "satisfaction" is a self-reported metric, which may be subject to response bias.
+<img width="1244" height="485" alt="Screen Shot 2026-03-13 at 21 12 22" src="https://github.com/user-attachments/assets/8b0a479a-f0e4-4127-a669-4e7e3d9ea60e" /><img width="945" height="554" alt="Screen Shot 2026-03-13 at 21 13 33" src="https://github.com/user-attachments/assets/bf7b868d-bd5f-4ceb-ad5d-781e40fe9e90" />
+<img width="676" height="544" alt="Screen Shot 2026-03-13 at 21 18 13" src="https://github.com/user-attachments/assets/b36c8314-ad96-488b-8e4e-586edfda5e64" />
+<img width="1246" height="483" alt="Screen Shot 2026-03-13 at 21 14 59" src="https://github.com/user-attachments/assets/afda411a-5b05-441d-9288-418c66d<img width="1244" height="489" alt="Screen Shot 2026-03-13 at 21 13 58" src="https://github.com/user-attachments/assets/e0d3d179-1488-491f-be39-f8d00b4a2f50" />
+2f771" />
+<img width="946" height="553" alt="Screen Shot 2026-03-13 at 21 15 31" src="https://github.com/user-attachments/assets/3e2d7cdc-80ca-4f71-a901-35cfc037f4cd" />
+<img width="945" height="225" alt="Screen Shot 2026-03-13 at 21 15 57" src="https://github.com/user-attachments/assets/ec92a47c-ec97-4a69-8d93-dd2dbcf2afd8" />
+<img width="943" height="226" alt="Screen Shot 2026-03-13 at 21 17 49" src="https://github.com/user-attachments/assets/d147e870-68fa-48f7-9c72-50ad150b8e80" />
+
 
 ### **Modeling and Evaluation**
 
